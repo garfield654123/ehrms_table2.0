@@ -3,10 +3,15 @@ import './App.css';
 import ExpenseItem from './components/ExpenseItem';
 
 function App() {
+  
   return (
     <div className="App">
-      <h2> let's get started</h2>
+      <header className="App-header">
+     
+      <h1>喵</h1>
+      
       <ExpenseItem></ExpenseItem>
+      </header>
     </div>
   );
 }
