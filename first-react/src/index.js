@@ -2,10 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-<<<<<<< HEAD
-=======
+
 import reportWebVitals from './reportWebVitals';
->>>>>>> dea4b931938e744c401d7011924f9ceae9b55454
 //import ExpenseItem from './components/ExpenseItem';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
